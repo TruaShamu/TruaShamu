@@ -3,7 +3,7 @@
 *Also contributing to [Orcasound](https://github.com/orcasound/orcahello) and [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/releases/tag/v2026.5.7).*
 
 ### AI Search / Information Retrieval
-- **[booksearch](https://github.com/TruaShamu/booksearch)** — Hybrid semantic search + RAG over 84k books: TF-IDF × dense vectors fused with RRF, cross-encoder reranking, Azure-backed.
+- **[booksearch](https://github.com/TruaShamu/booksearch)** — Hybrid semantic search + RAG over 84k books (TF-IDF × dense vectors, RRF, cross-encoder reranker). Runs on Kubernetes + KEDA with Kafka, provisioned on AKS via Terraform, traced with OpenTelemetry, full CI/CD.
 
 ### Developer Tools & Terminal
 - **[pr-pilot](https://github.com/TruaShamu/pr-pilot)** — PR lifecycle TUI: review, triage, fix CI, and manage pull requests (TypeScript, Ink, GitHub API).
