@@ -13,3 +13,5 @@
 ### Image Processing
 - **[seam-carving](https://github.com/TruaShamu/seam-carving)** — Content-aware image resizing: dual-gradient energy, DP seam finding, object removal (Python).
 - **[voronoi-mosaic](https://github.com/TruaShamu/voronoi-mosaic)** — Region-based image stylization via Voronoi partitioning, with a Flask web app (OpenCV).
+
+Currently working on building a low-latency winsock HTTP server: https://github.com/TruaShamu/http-server
