@@ -10,6 +10,9 @@
 - **[sixelvim](https://github.com/TruaShamu/sixelvim)** — Neovim plugin for inline image & PDF preview in the terminal via Sixel graphics (Lua).
 - **[console-music-player](https://github.com/TruaShamu/console-music-player)** — Terminal music player for local audio: playlists, playback controls (C#/.NET, NAudio).
 
+### AI Image Generation
+- **[image-pipeline-app](https://github.com/TruaShamu/image-pipeline-app)** — Local-first visual node-graph editor for AI image pipelines: typed ports, fan-out over collections, and YAML workflows that run identically on the canvas or from a headless CLI (React, tldraw, Azure OpenAI).
+
 ### Image Processing
 - **[seam-carving](https://github.com/TruaShamu/seam-carving)** — Content-aware image resizing: dual-gradient energy, DP seam finding, object removal (Python).
 - **[voronoi-mosaic](https://github.com/TruaShamu/voronoi-mosaic)** — Region-based image stylization via Voronoi partitioning, with a Flask web app (OpenCV).
