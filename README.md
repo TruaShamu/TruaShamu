@@ -11,7 +11,7 @@
 - **[console-music-player](https://github.com/TruaShamu/console-music-player)** — Terminal music player for local audio: playlists, playback controls (C#/.NET, NAudio).
 
 ### AI Image Generation
-- **[image-pipeline-app](https://github.com/TruaShamu/image-pipeline-app)** — Local-first visual node-graph editor for AI image pipelines: typed ports, fan-out over collections, and YAML workflows that run identically on the canvas or from a headless CLI (React, tldraw, Azure OpenAI).
+- **[image-pipeline-app](https://github.com/TruaShamu/image-pipeline-app)** — Local-first visual node-graph editor for AI image pipelines. Workflows are plain YAML in git, reviewable in a PR, and the same graph runs identically on the canvas or headless from the CLI, with generations cached by content so reruns are free and reproducible (React, tldraw, Azure OpenAI).
 
 ### Image Processing
 - **[seam-carving](https://github.com/TruaShamu/seam-carving)** — Content-aware image resizing: dual-gradient energy, DP seam finding, object removal (Python).
